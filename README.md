@@ -63,7 +63,7 @@ Assalamu Alaikum! I’m Zobia Masood, a Frontend & MERN Stack Developer and BBIT
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-# 🚀 Featured Projects:
+#  Featured Projects:
 
 ###  StudyVault
 A student study resource management system built with the MERN Stack.
