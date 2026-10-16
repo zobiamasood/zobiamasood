@@ -79,4 +79,4 @@ A React-based meal planning application designed to help users organize their me
 **Tech:** React.js
 
 #  Portfolio:
-[🌐 Portfolio](https://zobia-masood-portfolio.vercel.app/)
+![Portfolio](https://zobia-masood-portfolio.vercel.app/)
