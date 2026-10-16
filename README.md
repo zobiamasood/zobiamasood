@@ -80,4 +80,6 @@ A React-based meal planning application designed to help users organize their me
 
 #  Portfolio:
 
-[![Portfolio]https://zobia-masood-portfolio.vercel.app/
+<a href="https://zobia-masood-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F3D3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
