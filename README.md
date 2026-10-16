@@ -80,4 +80,4 @@ A React-based meal planning application designed to help users organize their me
 
 #  Portfolio:
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-aa4053.netlify.app/)
+[![Portfolio]https://zobia-masood-portfolio.vercel.app/
